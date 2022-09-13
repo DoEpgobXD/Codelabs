@@ -1,0 +1,4 @@
+Data types are coders tools and are used as such
+For conpaining or other equation like lines of coders
+A line of code that anwsers a question whill stating the question
+Loops are types of Code that repeat a set number of time or infinet times
