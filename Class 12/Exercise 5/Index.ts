@@ -1,4 +1,4 @@
-function formASentence (name:string, age:number, occupation:string){
+function formASentence(name:string, age:number, occupation:string){
     console.log ("Hello! My name is " + name + "I am " + age + "I am " + occupation)
 }
 
