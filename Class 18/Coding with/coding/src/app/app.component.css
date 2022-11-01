@@ -1,0 +1,12 @@
+p1{
+color: aqua;
+size: calc(89+6);
+}
+title{
+  color: blueviolet;
+  size: auto;
+}
+h1{
+  color: darkorchid;
+  size: 9cm;
+}
