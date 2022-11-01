@@ -21,3 +21,4 @@ describe('CockpitComponent', () => {
     expect(component).toBeTruthy();
   });
 });
+//Deleated all none working code
